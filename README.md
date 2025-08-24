@@ -39,20 +39,6 @@ Discount & Pricing Analysis
 
 Customer Ratings Distribution
 
-📸 SQL Query Results
-### 🔹 Total Revenue by Category  
-![Total Revenue by Category](screenshots/Screenshot%202025-08-22%20214553.png)  
-
-### 🔹 Categories with More than 100 Products  
-![Categories with More than 100 Products](screenshots/Screenshot%202025-08-22%20214539.png)  
-
-### 🔹 Product with Highest Revenue in Each Category  
-![Highest Revenue Product](screenshots/Screenshot%202025-08-22%20214513.png)  
-
-### 🔹 Top Products by Revenue within Categories  
-![Top Products by Revenue](screenshots/Screenshot%202025-08-22%20214444.png)  
-
-
 🚀 Tools & Technologies
 
 SQL Server → Data Analysis
