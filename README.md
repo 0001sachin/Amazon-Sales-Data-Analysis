@@ -30,6 +30,7 @@ Ranking products and categories based on sales performance.
 📊 Power BI Dashboard
 
 The Power BI report (Amzon_project.pbix) provides interactive insights, including:
+https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20192021.png
 
 Sales and Revenue by Category
 
