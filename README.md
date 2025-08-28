@@ -2,7 +2,7 @@ This project focuses on analyzing Amazon sales data using SQL and Power BI.
 The goal is to uncover insights such as product pricing trends, category performance, discounts, and revenue contribution.
 
 The project includes:
-![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20192044.png)
+
 SQL Queries → For data exploration and analysis.
 
 Power BI Dashboard → For interactive visualization and storytelling.
