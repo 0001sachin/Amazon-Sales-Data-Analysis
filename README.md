@@ -27,6 +27,10 @@ Revenue analysis (total revenue, highest revenue product per category).
 
 Ranking products and categories based on sales performance.
 
+These are some sample output rest you see that in sql file.
+![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20214444.png)
+![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20214553.png)
+
 📊 Power BI Dashboard
 
 The Power BI report (Amzon_project.pbix) provides interactive insights, including:
