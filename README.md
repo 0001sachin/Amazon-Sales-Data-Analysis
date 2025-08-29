@@ -39,6 +39,11 @@ Discount & Pricing Analysis
 
 Customer Ratings Distribution
 
+![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20192021.png)
+![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20192044.png)
+![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20192108.png)
+![Dashboard Screenshot 2](https://github.com/0001sachin/Amazon-Sales-Data-Analysis/blob/main/Screenshot%202025-08-22%20192130.png)
+
 🚀 Tools & Technologies
 
 SQL Server → Data Analysis
